@@ -8,7 +8,7 @@
 public class TaskFive {
     public static void main(String[] args) {
         System.out.println("Kilograms   |   Pounds   |   |   Pounds   |   Kilograms");
-        System.out.println("----------------------------------------------");
+        System.out.println("---------------------------------------------------------");
 
 
         // How I Got These Numbers:
